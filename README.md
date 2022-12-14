@@ -1,2 +1,3 @@
 # rtos
-Real-Time Operating System
+
+Real-Time Operating System for Raspberri Pi 4
